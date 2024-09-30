@@ -1,0 +1,6 @@
+projectKey=123test2
+serverUrl=https://vorona.ngrok.io
+serverVersion=10.5-SNAPSHOT
+dashboardUrl=https://vorona.ngrok.io/dashboard?id=123test2
+ceTaskId=7d07cb01-f0d8-4623-90cf-dfc5583f610c
+ceTaskUrl=https://vorona.ngrok.io/api/ce/task?id=7d07cb01-f0d8-4623-90cf-dfc5583f610c
